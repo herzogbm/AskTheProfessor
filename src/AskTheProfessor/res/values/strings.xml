@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AskTheProffessorMainActivity!</string>
+    <string name="app_name">AskTheProffessor</string>
+    <string name="Logo">Logo</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="atp_logo_content_description">Ask the Professor Radio Show</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="repeat">Repeat</string>
+    <string name="shuffle">Shuffle</string>
+</resources>
